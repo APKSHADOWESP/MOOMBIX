@@ -33,13 +33,13 @@ This Python MOONBIX Bot script manages multiple accounts for the MOONBIX bot, su
 
 📜 Steps to Follow:
 
-1. Clone the repo: https://github.com/Savanop121/notpixel.git
+1. Clone the repo: https://github.com/APKSHADOWESP/MOOMBIX.git
 
 
 2. Navigate to the directory: cd notPixel
 
 
-3. Install Python 🐍
+3. Install Python 
 
 
 4. Install dependencies: pip install -r requirements.txt
@@ -125,7 +125,7 @@ For more information, consult the full text: Title 17 of the U.S. Code.
 
 ---
 
-README by SHADOW ✨
+CODE BY SHADOW ✨
 
 
 ---
