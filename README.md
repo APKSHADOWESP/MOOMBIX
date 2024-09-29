@@ -23,9 +23,9 @@ This Python MOONBIX Bot script manages multiple accounts for the MOONBIX bot, su
 
 3. Done! 🎉 Now log in to MOONBIX and use Inspect Element to retrieve the Query ID (Right-click to Inspect).
 
-
-4. Example: 
-
+ or
+ MESSAGE ME 
+ https://t.me/APKSHADOWHACK
 
 
 
@@ -33,13 +33,13 @@ This Python MOONBIX Bot script manages multiple accounts for the MOONBIX bot, su
 
 📜 Steps to Follow:
 
-1. Clone the repo: https://github.com/APKSHADOWESP/MOOMBIX.git
+
+1.https://github.com/APKSHADOWESP/MOOMBIX.git
 
 
-2. Navigate to the directory: cd notPixel
+2.cd MOOMBIX
 
-
-3. Install Python 
+3.  Python 
 
 
 4. Install dependencies: pip install -r requirements.txt
